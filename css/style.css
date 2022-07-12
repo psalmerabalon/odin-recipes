@@ -1,0 +1,47 @@
+body    {
+    background-color: #ffff00;
+}
+
+#title  {
+    text-align: center;
+    font-family: Helvetica,sans-serif;
+    font-size: 40px;
+    background-color: #878bc0;
+    color: #e5ff00;
+}
+
+.para, .list , .link   {
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+}
+
+.subhead    {
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+    color: #e5ff00;
+    background-color: #6e6969;
+    text-align: center;
+}
+
+.image   {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
